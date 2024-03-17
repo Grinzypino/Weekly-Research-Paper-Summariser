@@ -11,7 +11,7 @@ research_paper_folder_path = os.environ.get("RESEARCH_PAPER_FOLDER_PATH", "./doc
 
 
 def run(host, port):
-    # Given a user search query
+    # Given summarise query
     query, response_writer = pw.io.http.rest_connector(
         host=host,
         port=port,
