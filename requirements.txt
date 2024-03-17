@@ -1,0 +1,9 @@
+pathway
+unstructured[all-docs]==0.10.15
+tiktoken
+requests
+datetime
+streamlit
+python-dotenv
+litellm
+arxiv
