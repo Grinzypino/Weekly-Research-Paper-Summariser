@@ -2,7 +2,7 @@
 
   
 
-Quickly summarizes the content and shows the summary according to users current level of knowledge in **real-time** from publicly available research paper archives [arXiv | Cornell University](https://arxiv.org/).
+Quickly finds latest research paper of user's chosen domain and generates summary according to user's current level of knowledge in **real-time** from publicly available research paper archives [arXiv | Cornell University](https://arxiv.org/).
 
   
 
