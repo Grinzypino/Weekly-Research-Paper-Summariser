@@ -14,7 +14,7 @@ See how the tool works:
 
   
 
-![Weekly Research Paper AI Summariser tool demo](assets/Demo.mp4)
+![Weekly Research Paper AI Summariser tool demo](assets/demo.gif)
 
   
 
