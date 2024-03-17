@@ -40,7 +40,7 @@ with st.sidebar:
         "to build real-time LLM-enabled data pipeline in Python and join data from online APIs\n"
 
     )
-    st.markdown("[View the source code on GitHub](https://github.com/Boburmirzo/chatgpt-api-python-sales)")
+    st.markdown("[View the source code on GitHub](https://github.com/Grinzypino/Weekly-Research-Paper-Summariser)
 
 # Load environment variables
 load_dotenv()
