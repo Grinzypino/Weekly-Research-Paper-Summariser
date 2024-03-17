@@ -18,7 +18,7 @@ See how the tool works:
 
   
 
-You can see that the LLM App enables AI-powered summary for current and latest research paper pdfs (i.e. unstructured documents) of various subjects like physics, biology, computer science, etc. and indexes input data in real-time just after files are found and stored on local storage.
+The arXiv API is used to search latest research paper in user's chosen domain. You can see that the LLM App enables AI-powered summary for current and latest research paper pdfs (i.e. unstructured documents) of various subjects like physics, biology, computer science, etc. and indexes input data in real-time just after files are found and stored on local storage.
 
   
 
