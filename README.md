@@ -42,6 +42,10 @@ There are 3 ways to run the app:
 
 OPENAI_API_TOKEN={OPENAI_API_KEY}
 
+HOST=0.0.0.0
+
+PORT=8080
+
 EMBEDDER_LOCATOR=text-embedding-ada-002
 
 EMBEDDING_DIMENSION=1536
@@ -98,6 +102,10 @@ You can run the UI separately by running Streamlit app
 ```bash
 
 OPENAI_API_TOKEN={OPENAI_API_KEY}
+
+HOST=0.0.0.0
+
+PORT=8080
 
 EMBEDDER_LOCATOR=text-embedding-ada-002
 
