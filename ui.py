@@ -125,4 +125,4 @@ if level and generator:
         st.write("### Answer")
         st.write(response.json())
     else:
-        st.error(f"Failed to send data to Discounts API. Status code: {response.status_code}")
+        st.error(f"Failed to send data to Summarise API. Status code: {response.status_code}")
